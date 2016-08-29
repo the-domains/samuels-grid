@@ -1,0 +1,14 @@
+layout_spectrum: 0.14821034693159163
+typography_spectrum: 0.45083070057444274
+color:
+  brandStrength: 0.342018656199798
+  lightness: 0.5733175277709961
+  saturation: 0.7512014631647617
+  rhythmicContrast: 0.1167746854480356
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: Samuel's Grid
